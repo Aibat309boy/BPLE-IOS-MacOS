@@ -3,3 +3,7 @@
 
 > [!IMPORTANT]
 > This project is made with a *very* major help of LLMs (GitHub Copilot)
+
+## Credits to:  
+- [Anstro Pleuton](https://github.com/anstropleuton) for decompilation of [BPLE](https://github.com/anstropleuton/BPLE)
+- soulvyy - but not here github
